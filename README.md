@@ -19,6 +19,9 @@ Built with flexibility in mind, Harper can run **online (powered by GPT)** or **
 ```bash
 git clone https://github.com/yourusername/harper-ai.git
 cd harper-ai
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# Linux/Max: source .venv/bin/activate
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_api_key_here   # optional if using GPT
 python main.py
