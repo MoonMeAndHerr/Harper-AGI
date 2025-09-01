@@ -9,10 +9,8 @@ Built with flexibility in mind, Harper can run **online (powered by GPT)** or **
 
 - 📊 **Market Advisor** – Analyzes data trends and provides growth insights.  
 - 🎯 **Promotional Advisor** – Suggests campaigns and strategies for outreach.  
-- 📅 **Meeting Advisor** – Prepares structured agendas and action points.  
-- 🔄 **Modular Design** – Easily add new advisors or swap AI engines.  
-- 🌐 **Hybrid AI Mode** – Works with OpenAI GPT if available, or offline fallback.  
-
+- 📅 **Meeting Advisor** – Prepares structured agendas and action points.
+- 
 ---
 
 ## 🚀 Getting Started
