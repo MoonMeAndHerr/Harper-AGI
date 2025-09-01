@@ -24,7 +24,7 @@ python -m venv .venv
 # Linux/Max: source .venv/bin/activate
 pip install -r requirements.txt
 export OPENAI_API_KEY=your_api_key_here   # optional if using GPT
-python main.py
+streamlit run app.py
 ```
 
 ### 2. Project Structure, How It Works, Tech Stack, License & Contributing
