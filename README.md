@@ -30,11 +30,14 @@ python main.py
 
 ```
 harper-ai/
-│── advisors/          # Specialized advisor modules (Market, Promo, Meeting, etc.)
+│── services/          # Specialized advisor modules (Market, Promo, Meeting, etc.)
 │── utils/             # AI engine and helper functions
-│── main.py            # Entry point for Harper AI
+│── app.py            # Entry point for Harper AI
 │── requirements.txt   # Dependencies
 │── README.md          # Project documentation
+|── assets             # Logo and images
+|── sample_data         # Deterministic mockup
+|── models         # Saved CNN Models
 ```
 
 Harper AI uses a **central AI engine** that:
