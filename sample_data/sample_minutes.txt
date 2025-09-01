@@ -1,0 +1,5 @@
+Meeting Minutes - Demo
+Date: 2025-08-28
+Attendees: Alice, Bob
+Notes: Discussed roadmap and risks.
+Action: prioritize API integration.
